@@ -7,9 +7,9 @@
 
   ---
 
-  ### 👨‍💻 **Ahmed Ali Riyad**
+  ### **Ahmed Ali Riyad**👨‍💻
   **Flutter & Dart Developer** • Code: `F13`  
-  🎓 *CREATIVA Mansoura — Graduation Project 2026*
+  *CREATIVA Mansoura — Graduation Project 2026* 🎓
 
   <br/>
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 📌 Overview
+## Overview 📌 
 
 **News Application** is a mobile application developed as a Graduation Project at **CREATIVA Mansoura**. 
 
@@ -30,7 +30,7 @@ Built with **Flutter & Dart**, the application integrates with an external REST 
 
 ---
 
-## 📱 Application Preview
+## Application Preview 📱
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/671440c7-2199-4883-b98f-f95e39a5e712" width="100%" alt="News Application Preview"/>
@@ -38,7 +38,7 @@ Built with **Flutter & Dart**, the application integrates with an external REST 
 
 ---
 
-## ✨ Key Features
+##  Key Features ✨
 
 | Feature | Description |
 | :--- | :--- |
@@ -53,7 +53,7 @@ Built with **Flutter & Dart**, the application integrates with an external REST 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools 🛠️
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Built with **Flutter & Dart**, the application integrates with an external REST 
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure 🏗️ 
 
 ```text
 lib/
@@ -97,7 +97,7 @@ lib/
 
 ⸻
 
-🎯 Project Outcome
+Project Outcome 🎯
 
 This project demonstrates the practical application of Flutter & Dart in building a modern cross-platform mobile application, with a focus on clean UI, API integration, asynchronous data handling, and maintainable project structure.
 
@@ -105,7 +105,7 @@ This project demonstrates the practical application of Flutter & Dart in buildin
 
 <div align="center">
 
-🚀 Built with Flutter & Dart
+Built with Flutter & Dart 🚀 
 
 Developed by Ahmed Ali Riyad — F13
 
