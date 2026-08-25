@@ -79,7 +79,7 @@ class _SportState extends State<Sport> {
                       color: Colors.grey[300],
                       child: const Icon(
                         Icons.image_not_supported,
-                        size: 50,
+                        size: 58,
                       ),
                     );
                   },
