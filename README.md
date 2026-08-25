@@ -2,7 +2,7 @@
 
   <img src="https://github.com/user-attachments/assets/9f119304-ed35-4cc6-9b7e-cb34b91bb89c" width="250" height="200" style="border-radius: 50%;" alt="Ahmed Ali Riyad"/>
 
-  # 📰 News Application
+  # News Application 📰 
   **A Modern Cross-Platform Flutter News App**
 
   ---
