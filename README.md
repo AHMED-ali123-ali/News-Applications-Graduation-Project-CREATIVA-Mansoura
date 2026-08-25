@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/9f119304-ed35-4cc6-9b7e-cb34b91bb89c" width="250" height="200" style="border-radius: 50%;" alt="Ahmed Ali Riyad"/>
+  <img src="https://github.com/user-attachments/assets/9f119304-ed35-4cc6-9b7e-cb34b91bb89c" width="300" height="250" style="border-radius: 50%;" alt="Ahmed Ali Riyad"/>
 
   # News Application 📰 
   **A Modern Cross-Platform Flutter News App**
@@ -87,3 +87,30 @@ lib/
 │   └── ...
 │
 └── main.dart
+
+
+```
+
+
+
+
+
+⸻
+
+🎯 Project Outcome
+
+This project demonstrates the practical application of Flutter & Dart in building a modern cross-platform mobile application, with a focus on clean UI, API integration, asynchronous data handling, and maintainable project structure.
+
+⸻
+
+<div align="center">
+
+🚀 Built with Flutter & Dart
+
+Developed by Ahmed Ali Riyad — F13
+
+CREATIVA Mansoura • Graduation Project 2026
+
+⭐ If you find this project useful, feel free to give it a star! ⭐
+
+</div>
