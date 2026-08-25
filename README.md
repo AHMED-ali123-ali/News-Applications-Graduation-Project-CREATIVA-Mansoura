@@ -57,6 +57,7 @@ The received JSON data is parsed into Dart models and displayed through Flutter 
 ## 🏗️ Project Structure
 
 ```text
+## 🏗️ Project Structure
 lib/
 ├── model/
 │   └── articles.dart
@@ -65,6 +66,9 @@ lib/
 │   └── api-service.dart
 │
 ├── screens/
+│   └── ...
+│
+├── widgets/
 │   └── ...
 │
 └── main.dart
