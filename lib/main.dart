@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:news_application/screens/home_screen.dart';
-void main(){
+import 'screens/auth_theme.dart';
+import 'screens/splash_screen.dart';
 
-  runApp(NewsApp());
+void main() {
+  runApp(const NewsApp());
 }
 
 class NewsApp extends StatelessWidget {
@@ -11,8 +12,10 @@ class NewsApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner:false,
-      home:HomeScreen()
+      debugShowCheckedModeBanner: false,
+      title: 'News Application',
+      theme: AuthTheme.theme(),
+      home: const SplashScreen(),
     );
   }
 }
